@@ -1,4 +1,4 @@
-![CI](https://github.com/FreeNewMan/hw-ahj-dom/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/pymnu02af9ulq8td?svg=true)](https://ci.appveyor.com/project/FreeNewMan/hw-ahj-dom)
 
 # Домашнее задание к занятию "2. DOM"
 
