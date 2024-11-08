@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/pymnu02af9ulq8td?svg=true)](https://ci.appveyor.com/project/FreeNewMan/hw-ahj-dom)
+[![Build status](https://ci.appveyor.com/api/projects/status/dduqobg8ygmc0v4h?svg=true)](https://ci.appveyor.com/project/FreeNewMan/hw-ahj-dom)
 
 # Домашнее задание к занятию "2. DOM"
 
