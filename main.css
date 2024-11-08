@@ -1,0 +1,1 @@
+.container{display:grid;gap:10px;grid-template:120px 120px 120px 120px/120px 120px 120px 120px}.container>div{background:#000;border-radius:50px;height:120px;width:120px}
